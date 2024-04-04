@@ -1,4 +1,6 @@
-# Week 1 Code Challenge Murigi Wijenje
+# Week 1 Code Challenge 
+
+## by Murigi Wijenje
 
 ## Thursday 04/04/2024
 
